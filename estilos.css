@@ -1,2 +1,7 @@
 h1{color: black; text-align: center;font-size: 45px}
 h2{color: black; text-align: justify; font-size: 27px;}
+body {
+    background-attachment: fixed;
+    background-size: auto;
+}
+table { text-align: center; color: black; font-size: medium;}
